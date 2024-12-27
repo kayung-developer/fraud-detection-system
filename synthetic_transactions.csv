@@ -1,0 +1,7 @@
+transaction_id,account_id,transaction_time,amount,location,category
+8fea8aeb-1ea9-45b2-923c-67a3951b1ce0,ed6f35d3-122f-4017-8780-643914d3cd57,2024-07-27 14:21:07,7.32,New Brian,Food
+60f50ddc-8473-4c62-b3ed-ae783207fa1c,4b7418ba-1c95-4e5f-a5b8-2fe0fef867b9,2024-04-28 10:27:33,10.94,Joshuaview,Travel
+5d26cb81-a010-40e7-9a47-ffc3e3cc0d0f,abd84a9b-0de8-407c-9d9d-9fc0b52676a0,2024-08-23 22:47:34,249.94,Gomezside,Shopping
+8ffcd25f-f005-4597-a194-4ed8b1e8c662,c335d29a-f849-49f2-9ee6-cb089e29f35f,2024-09-08 04:21:52,10.7,Morrisonchester,Healthcare
+bca59a4d-5756-4f13-b986-6c779204031e,98f9be28-74b3-45d1-914e-ddff69ea4962,2024-06-16 20:57:19,69.72,New Susan,Travel
+e1cdd3d0-389b-4642-bcb4-6351eedbd99c,5b98310a-23bf-416b-b651-221aff701040,2024-12-23 00:47:32,19.92,Russellton,Travel
